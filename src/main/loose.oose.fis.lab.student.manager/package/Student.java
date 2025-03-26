@@ -6,7 +6,9 @@ public class Student {
    private int age;
    private double meanGrade;
 
-   ublic Student(String firstName, String lastName, int age, double meanGrade) {
+
+
+   public Student(String firstName, String lastName, int age, double meanGrade) {
           //assignments
       }
 
